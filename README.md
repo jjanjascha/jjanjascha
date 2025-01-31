@@ -11,8 +11,8 @@
 
 - ⚡ Fun fact **I love Anime and Cats!**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/janjaschaflorendo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/janjaschaflorendo/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/jashacreative_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/jashacreative_" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://behance.com/janjascha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://behance.com/janjascha" height="30" width="40" /></a>
